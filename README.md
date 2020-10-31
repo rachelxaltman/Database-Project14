@@ -1,8 +1,9 @@
 
-Create your github site for your project -- individual site or with your group.  Include a Read.me with group or individual names, and outline (TOC):
+Rating Systems
+
 Introduction (Team, Project Description):
 
-We will be creating a database that allows users to rate restuarants and their delivery drivers.
+We will be creating a database that allows users to rate restaurants and their delivery drivers.
 
 Use Case for Rating System:
 Business Rules:
