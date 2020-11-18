@@ -20,6 +20,7 @@ Use Case for Rating System:
 Business Rules:
 
 EERD (full database): https://github.com/rachelxaltman/Database-Project14/blob/main/Updated_Model.mwb
+![GitHub Logo](/EERD%20model.png)
 
 MySQL Queries:
 
