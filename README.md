@@ -16,12 +16,19 @@ Introduction
 
 
 Use Case for Rating System:
+
 Business Rules:
+
 EERD (full database): https://github.com/rachelxaltman/Database-Project14/blob/main/Updated_Model.mwb
+
 MySQL Queries:
+
 Stored Procedure:
+
 Web/App Implementation (Optional) or Description of Future Work:
+
 MySQL dump:
+
 PPT Video (link):
 
 
