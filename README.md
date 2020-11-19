@@ -21,7 +21,10 @@ Use Case for Rating System:
 Business Rules:
 
 - A User can rate a driver
-- 
+-  
+-
+-
+-
 
 EERD (full database): https://github.com/rachelxaltman/Database-Project14/blob/main/Updated_Model.mwb
 ![GitHub Logo](/EERD%20model.png)
