@@ -21,8 +21,8 @@ Use Case for Rating System:
 Business Rules:
 
 - A User can rate a driver
--  
--
+- A User can select a driver based off of their raitings
+- A User can see how many times their driver was raited
 -
 -
 
