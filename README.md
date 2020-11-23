@@ -21,10 +21,10 @@ Use Case for Rating System:
 Business Rules:
 
 - A User can rate a driver
-- A User can select a driver based off of their raitings
-- A User can see how many times their driver was raited
--
--
+- A User can select a driver based off of their ratings
+- A User can see how many times their driver was rated
+- Drivers can view their ratings
+- Administrators can view Driver Ratings
 
 EERD (full database): https://github.com/rachelxaltman/Database-Project14/blob/main/Updated_Model.mwb
 ![GitHub Logo](/EERD%20model.png)
