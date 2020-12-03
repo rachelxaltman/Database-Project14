@@ -31,7 +31,7 @@ Use Case for Rating System:
 - Administrators can view Driver Ratings
 
 EERD (full database): https://github.com/rachelxaltman/Database-Project14/blob/main/Updated_Model.mwb
-![EERDModel](/EERD%20model.png){:height="50%" width="50%"}
+![EERDModel](/EERD%20model.png){:height="200px" width="400px"}
 
 ## MySQL Queries:
 
