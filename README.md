@@ -3,12 +3,15 @@
 
 ## Introduction (Team, Project Description):
 
+#### Team
+
  Sean Acton,
  Rachel Altman,
  Levar Fredericks,
  Cameron Russ,
  Troy Tillery
 
+#### Project Description 
 We will be creating a database that allows users to rate restaurants and their delivery drivers.
 
 Introduction
