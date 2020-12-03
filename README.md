@@ -30,14 +30,14 @@ Use Case for Rating System:
 EERD (full database): https://github.com/rachelxaltman/Database-Project14/blob/main/Updated_Model.mwb
 ![GitHub Logo](/EERD%20model.png)
 
-MySQL Queries:
+## MySQL Queries:
 
-Stored Procedure:
+## Stored Procedure:
 
-Web/App Implementation (Optional) or Description of Future Work:
+## Web/App Implementation (Optional) or Description of Future Work:
 
-MySQL dump:
+## MySQL dump:
 
-PPT Video (link):
+## PPT Video (link):
 
 
