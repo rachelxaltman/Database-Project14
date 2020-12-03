@@ -20,7 +20,7 @@
 &emsp;  To implement a rating system, it will be done by adding 3 attributes to a new table. These attributes would be number of individualRatings, numOfRatings and driverRating. The way it would work is by adding a user’s input to the individualsRatings and when a user adds to a numOfRating it would add 1 to the individual rating. Using these two numbers, divide them to get the driverRating stat. This method is more effective than adding every single users rating to a separate table and averaging them because it removes the requirement of saving every single user review as a separate value. However, a downside of using this method is that it does not allow for comments to be associated with each review. Given that the rating is what is important, this is a minor lost.
 
 
-Use Case for Rating System:
+&emsp; Use Case for Rating System:
 
 ## Business Rules:
 
