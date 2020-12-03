@@ -1,5 +1,5 @@
 
-Rating Systems
+#Rating Systems
 
 Introduction (Team, Project Description):
 Sean Acton
