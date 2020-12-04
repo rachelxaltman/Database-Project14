@@ -32,6 +32,7 @@
 - A User can see how many times their driver was rated
 - Drivers can view their ratings
 - Administrators can view Driver Ratings
+-All drivers are students however not all students are drivers
 
 ## EERD (full database):
 https://github.com/rachelxaltman/Database-Project14/blob/main/neweerd.mwb
