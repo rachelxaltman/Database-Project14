@@ -43,7 +43,7 @@ https://github.com/rachelxaltman/Database-Project14/blob/main/neweerd.mwb
 ## MySQL Queries:
 
 ## Data Dictionary:
-
+https://github.com/rachelxaltman/Database-Project14/blob/main/data-dictionary.html
 
 ## Stored Procedure:
 
