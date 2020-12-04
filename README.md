@@ -42,6 +42,9 @@ https://github.com/rachelxaltman/Database-Project14/blob/main/neweerd.mwb
 
 ## MySQL Queries:
 
+## Data Dictionary:
+
+
 ## Stored Procedure:
 
 ## Web/App Implementation (Optional) or Description of Future Work:
