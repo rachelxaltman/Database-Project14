@@ -31,7 +31,7 @@
 - Administrators can view Driver Ratings
 
 EERD (full database): https://github.com/rachelxaltman/Database-Project14/blob/main/Updated_Model.mwb
-<img src="/EERD%20model.png" height="80%" width="80%">
+<img src="/EERD.png" height="80%" width="80%">
 
 
 ## MySQL Queries:
