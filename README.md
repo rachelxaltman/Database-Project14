@@ -47,6 +47,7 @@ https://github.com/rachelxaltman/Database-Project14/blob/main/neweerd.mwb
 ## Web/App Implementation (Optional) or Description of Future Work:
 
 ## MySQL dump:
+https://github.com/rachelxaltman/Database-Project14/blob/main/Dump.sql 
 
 ## PPT Video (link):
 
