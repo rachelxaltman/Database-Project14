@@ -21,8 +21,8 @@
 
 
 ##  Use Case:
+<https://github.com/rachelxaltman/Database-Project14/blob/main/UseCaseDiagram3160_Team14.png?raw=true" height="80%" width="80%">
 
-https://github.com/rachelxaltman/Database-Project14/blob/main/UseCaseDiagram3160_Team14.png?raw=true
 
 ## Business Rules:
 
