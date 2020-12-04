@@ -30,7 +30,7 @@
 - Drivers can view their ratings
 - Administrators can view Driver Ratings
 
-EERD (full database): https://github.com/rachelxaltman/Database-Project14/blob/main/Updated_Model.mwb
+EERD (full database):https://github.com/rachelxaltman/Database-Project14/blob/main/neweerd.mwb
 <img src="https://github.com/rachelxaltman/Database-Project14/blob/main/eerd.png?raw=true" height="80%" width="80%">
 
 
