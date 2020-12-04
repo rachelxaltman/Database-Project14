@@ -43,10 +43,11 @@ https://github.com/rachelxaltman/Database-Project14/blob/main/neweerd.mwb
 ## MySQL Queries:
 
 ## Data Dictionary:
+https://github.com/rachelxaltman/Database-Project14/blob/main/data-dictionary.html
 <img src="https://github.com/rachelxaltman/Database-Project14/blob/main/Data-Dictionary-Pictures/data-dictonary-pic1.png?raw=true" height="100%" width="100%">
 <img src="https://github.com/rachelxaltman/Database-Project14/blob/main/Data-Dictionary-Pictures/data-dictonary-pic2.png?raw=true" height="100%" width="100%">
 <img src="https://github.com/rachelxaltman/Database-Project14/blob/main/Data-Dictionary-Pictures/data-dictonary-pic3.png?raw=true" height="100%" width="100%">
-https://github.com/rachelxaltman/Database-Project14/blob/main/data-dictionary.html
+
 
 ## Stored Procedure:
 
