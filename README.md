@@ -37,7 +37,7 @@ https://github.com/rachelxaltman/Database-Project14/blob/main/neweerd.mwb
 <img src="https://github.com/rachelxaltman/Database-Project14/blob/main/eerd.png?raw=true" height="80%" width="80%">
 
 
-##Select* Ratings:
+## Select* Ratings:
 <img src="https://github.com/rachelxaltman/Database-Project14/blob/main/select.png?raw=true" height="80%" width="80%">
 
 ## MySQL Queries:
