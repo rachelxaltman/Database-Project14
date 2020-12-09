@@ -36,7 +36,7 @@
 
 ## EERD (full database):
 https://github.com/rachelxaltman/Database-Project14/blob/main/neweerd.mwb
-<img src="https://github.com/rachelxaltman/Database-Project14/blob/main/eerd.png?raw=true" height="80%" width="80%">
+<img src="https://github.com/rachelxaltman/Database-Project14/blob/main/EERD/New%20EERD%202.0.png" height="80%" width="80%">
 
 
 ## Select* Ratings:
