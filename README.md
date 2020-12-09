@@ -40,7 +40,7 @@ https://github.com/rachelxaltman/Database-Project14/blob/main/neweerd.mwb
 
 
 ## Select* Ratings:
-<img src="https://github.com/rachelxaltman/Database-Project14/blob/main/select.png?raw=true" height="60%" width="60%">
+<img src=https://github.com/rachelxaltman/Database-Project14/blob/main/Select%20SS.png" height="60%" width="60%">
 
 
 ## Data Dictionary:
