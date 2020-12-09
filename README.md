@@ -55,7 +55,7 @@ https://github.com/rachelxaltman/Database-Project14/blob/main/Dictionary-Pics/da
 ## Web/App Implementation (Optional) or Description of Future Work:
 
 ## MySQL dump:
-https://github.com/rachelxaltman/Database-Project14/blob/main/Dump.sql 
+https://github.com/rachelxaltman/Database-Project14/blob/main/Dump20201209.sql
 
 ## PPT Video (link):
 
