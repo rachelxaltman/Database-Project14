@@ -17,7 +17,7 @@
 
 &emsp;  To fully understand our database project, it’s important that we first understand the scope and initial elements of the database. The database is designed for a food delivery application. The application contains a variety of tables, ranging from faculty, locations, drivers and vehicles. This is a good database to start with, but its missing a few features that could improve it. We plan to implement certain features to improve user experience. One of the features we added is a rating system to attach to drivers, which allows users to distinguish good drivers from bad ones. In addition, this added feature will pair nicely with the already existing component within the order table, that helps identify which drivers are causing trouble on the road, which is set up through driver_id being connected as a foreign key.
 
-&emsp;  To implement our rating system, we will add four attributes to a new table. The attributes are: rating_id, order_id, driver_rating, and restaurant_rating. Rating_id is the primary key that holds a MEDIUMINT that auto-increments starting from one. Driver_rating is an attribute that holds an INT and is determined by the ratings that the driver has earned. Order_id is a foreign key from the order table used to identify the order that a driver is currently on and holds an INT. Restaurant_rating is an attribute that holds a MEDIUMINT and is determined by the ratings that the restaurant has earned.
+&emsp;  To implement our rating system, we will add four attributes to a new table. The attributes are: rating_id, order_id, driver_rating, and restaurant_rating. Rating_id is the primary key that holds a MEDIUMINT that auto-increments starting from one. Driver_rating is an attribute that holds an INT and is determined by the ratings that the driver has earned. Order_id is a foreign attribute from the order table used to identify the order that a driver is currently on. Restaurant_rating is an attribute that holds a MEDIUMINT and is determined by the ratings that the restaurant has earned.
 
 
 
@@ -45,10 +45,10 @@ https://github.com/rachelxaltman/Database-Project14/blob/main/neweerd.mwb
 
 ## Data Dictionary:
 https://github.com/rachelxaltman/Database-Project14/blob/main/data-dictionary.html
-<img src="https://github.com/rachelxaltman/Database-Project14/blob/main/Data-Dictionary-Pictures/data-dictonary-pic1.png?raw=true" height="100%" width="100%">
-<img src="https://github.com/rachelxaltman/Database-Project14/blob/main/Data-Dictionary-Pictures/data-dictonary-pic2.png?raw=true" height="100%" width="100%">
-<img src="https://github.com/rachelxaltman/Database-Project14/blob/main/Data-Dictionary-Pictures/data-dictonary-pic3.png?raw=true" height="100%" width="100%">
-
+<img src="https://github.com/rachelxaltman/Database-Project14/blob/main/Dictionary-Pics/ss1.png" height="100%" width="100%">
+<img src="https://github.com/rachelxaltman/Database-Project14/blob/main/Dictionary-Pics/ss2.png" height="100%" width="100%">
+<img src="https://github.com/rachelxaltman/Database-Project14/blob/main/Dictionary-Pics/ss3.png" height="100%" width="100%">
+<img src="https://github.com/rachelxaltman/Database-Project14/blob/main/Dictionary-Pics/ss4.png" height="100%" width="100%">
 
 ## Stored Procedure:
 
