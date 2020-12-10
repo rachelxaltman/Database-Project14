@@ -53,6 +53,7 @@ https://github.com/rachelxaltman/Database-Project14/blob/main/Dictionary-Pics/da
 ## Stored Procedure:
 
 ## Web/App Implementation (Optional) or Description of Future Work:
+https://github.com/rachelxaltman/Database-Project14/blob/main/writesrestdata.py
 
 ## MySQL dump:
 https://github.com/rachelxaltman/Database-Project14/blob/main/Dump20201209.sql
