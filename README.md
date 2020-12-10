@@ -59,6 +59,7 @@ https://github.com/rachelxaltman/Database-Project14/blob/main/Dictionary-Pics/da
 
 ## Advanced Views
 <img src="https://github.com/rachelxaltman/Database-Project14/blob/main/Nested%20Query%20Advanced%20View.PNG" height="100%" width="100%">
+<img src="https://github.com/rachelxaltman/Database-Project14/blob/main/Sort%20Query%20Example.PNG" height="100%" width="100%">
 
 ## Web/App Implementation (Optional) or Description of Future Work:
 https://github.com/rachelxaltman/Database-Project14/blob/main/writesrestdata.py
