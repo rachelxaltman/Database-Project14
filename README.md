@@ -58,6 +58,7 @@ https://github.com/rachelxaltman/Database-Project14/blob/main/Dictionary-Pics/da
 <img src="https://github.com/rachelxaltman/Database-Project14/blob/main/Stored%20Procedures/Calling%20restaurant_rating_avg.png" height="100%" width="100%">
 
 ## Advanced Views
+<img src="https://github.com/rachelxaltman/Database-Project14/blob/main/Nested%20Query%20Advanced%20View.PNG" height="100%" width="100%">
 
 ## Web/App Implementation (Optional) or Description of Future Work:
 https://github.com/rachelxaltman/Database-Project14/blob/main/writesrestdata.py
