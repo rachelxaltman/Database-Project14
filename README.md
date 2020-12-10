@@ -61,7 +61,7 @@ https://github.com/rachelxaltman/Database-Project14/blob/main/Dictionary-Pics/da
 https://github.com/rachelxaltman/Database-Project14/blob/main/writesrestdata.py
 
 ## MySQL dump:
-https://github.com/rachelxaltman/Database-Project14/blob/main/Dump20201209.sql
+https://github.com/rachelxaltman/Database-Project14/blob/main/Dump20201210.sql
 
 ## PPT Video (link):
 
