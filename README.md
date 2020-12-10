@@ -53,9 +53,9 @@ https://github.com/rachelxaltman/Database-Project14/blob/main/Dictionary-Pics/da
 ## Stored Procedure:
 
 <img src="https://github.com/rachelxaltman/Database-Project14/blob/main/Stored%20Procedures/driver_rating_avg%20procedure.png" height="100%" width="100%">
-<img src="https://github.com/rachelxaltman/Database-Project14/blob/main/Stored%20Procedures/driver_rating_avg%20procedure.png" height="100%" width="100%">
-<img src="https://github.com/rachelxaltman/Database-Project14/blob/main/Stored%20Procedures/Calling%20restaurant_rating_avg.png" height="100%" width="100%">
+<img src="https://github.com/rachelxaltman/Database-Project14/blob/main/Stored%20Procedures/Calling%20driver_rating_avg.png" height="100%" width="100%">
 <img src="https://github.com/rachelxaltman/Database-Project14/blob/main/Stored%20Procedures/restaurant_rating_avg%20procedure.png" height="100%" width="100%">
+<img src="https://github.com/rachelxaltman/Database-Project14/blob/main/Stored%20Procedures/Calling%20restaurant_rating_avg.png" height="100%" width="100%">
 
 ## Web/App Implementation (Optional) or Description of Future Work:
 https://github.com/rachelxaltman/Database-Project14/blob/main/writesrestdata.py
