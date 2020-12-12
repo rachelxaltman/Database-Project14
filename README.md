@@ -59,7 +59,7 @@ https://github.com/rachelxaltman/Database-Project14/blob/main/New%20EERD%202.0%2
 
 ## Advanced Views
 <img src="https://github.com/rachelxaltman/Database-Project14/blob/main/AQs/1st%20AQ.png" height="100%" width="100%">
-<img src=https://github.com/rachelxaltman/Database-Project14/blob/main/AQs/2nd%20AQ.png" height="100%" width="100%">
+<img src= "https://github.com/rachelxaltman/Database-Project14/blob/main/AQs/2nd%20AQ.png" height="100%" width="100%">
 
 ## Indexs for Reports
 
