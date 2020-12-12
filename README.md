@@ -58,8 +58,8 @@ https://github.com/rachelxaltman/Database-Project14/blob/main/New%20EERD%202.0%2
 <img src="https://github.com/rachelxaltman/Database-Project14/blob/main/Stored%20Procedures/Calling%20restaurant_rating_avg.png" height="100%" width="100%">
 
 ## Advanced Views
-<img src="https://github.com/rachelxaltman/Database-Project14/blob/main/Nested%20Query%20Advanced%20View.PNG" height="100%" width="100%">
-<img src="https://github.com/rachelxaltman/Database-Project14/blob/main/Sort%20Query%20Example.PNG" height="100%" width="100%">
+<img src="https://github.com/rachelxaltman/Database-Project14/blob/main/AQs/1st%20AQ.png" height="100%" width="100%">
+<img src=https://github.com/rachelxaltman/Database-Project14/blob/main/AQs/2nd%20AQ.png" height="100%" width="100%">
 
 ## Indexs for Reports
 
