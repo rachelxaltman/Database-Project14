@@ -44,7 +44,7 @@ https://github.com/rachelxaltman/Database-Project14/blob/main/neweerd.mwb
 
 
 ## Data Dictionary:
-https://github.com/rachelxaltman/Database-Project14/blob/main/newmodel1211.mwb
+https://github.com/rachelxaltman/Database-Project14/blob/main/New%20EERD%202.0%20Model%20(1).mwb
 <img src="https://github.com/rachelxaltman/Database-Project14/blob/main/Dictionary-Pics/ss1.png" height="100%" width="100%">
 <img src="https://github.com/rachelxaltman/Database-Project14/blob/main/Dictionary-Pics/ss2.png" height="100%" width="100%">
 <img src="https://github.com/rachelxaltman/Database-Project14/blob/main/Dictionary-Pics/ss3.png" height="100%" width="100%">
