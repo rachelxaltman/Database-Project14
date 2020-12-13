@@ -40,12 +40,12 @@ https://github.com/rachelxaltman/Database-Project14/blob/main/neweerd.mwb
 
 
 ## Select* Ratings:
-<img src= "https://github.com/rachelxaltman/Database-Project14/blob/main/Select%20SS.png" height="60%" width="60%">
+<img src= "https://github.com/rachelxaltman/Database-Project14/blob/main/select%20from%20ratings..PNG" height="60%" width="60%">
 
 
 ## Data Dictionary:
 https://github.com/rachelxaltman/Database-Project14/blob/main/New%20EERD%202.0%20Model%20(1).mwb
-<img src="https://github.com/rachelxaltman/Database-Project14/blob/main/select%20from%20ratings..PNG" height="100%" width="100%">
+<img src="https://github.com/rachelxaltman/Database-Project14/blob/main/Dictionary-Pics/ss1.png" height="100%" width="100%">
 <img src="https://github.com/rachelxaltman/Database-Project14/blob/main/Dictionary-Pics/ss2.png" height="100%" width="100%">
 <img src="https://github.com/rachelxaltman/Database-Project14/blob/main/Dictionary-Pics/ss3.png" height="100%" width="100%">
 <img src="https://github.com/rachelxaltman/Database-Project14/blob/main/Dictionary-Pics/ss4.png" height="100%" width="100%">
