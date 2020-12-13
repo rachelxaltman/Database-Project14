@@ -73,6 +73,8 @@ https://github.com/rachelxaltman/Database-Project14/blob/main/writesrestdata.py
 ## MySQL dump:
 https://github.com/rachelxaltman/Database-Project14/blob/main/Dump20201210.sql
 
-## PPT Video (link):
+## Video Presentation Link:
+https://youtu.be/vjF5U94DiKk
+
 
 
