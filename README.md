@@ -68,11 +68,9 @@ Indexes are used to make querying databases more efficient. Indexes make queries
 
 
 ## Web/App Implementation (Optional) or Description of Future Work:
-<img src="https://github.com/rachelxaltman/Database-Project14/blob/main/writesrestdata.py" height="100%" width="100%">
 https://github.com/rachelxaltman/Database-Project14/blob/main/writesrestdata.py
 
 ## MySQL dump:
-<img src="https://github.com/rachelxaltman/Database-Project14/blob/main/Dump20201210.sql" height="100%" width="100%">
 https://github.com/rachelxaltman/Database-Project14/blob/main/Dump20201210.sql
 
 ## PPT Video (link):
