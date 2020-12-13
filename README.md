@@ -62,13 +62,17 @@ https://github.com/rachelxaltman/Database-Project14/blob/main/New%20EERD%202.0%2
 <img src= "https://github.com/rachelxaltman/Database-Project14/blob/main/AQs/2nd%20AQ.png" height="100%" width="100%">
 
 ## Indexes for Reports
+<img src="https://github.com/rachelxaltman/Database-Project14/blob/main/Query%20Index%20Example.PNG" height="100%" width="100%">
+
 Indexes are used to make querying databases more efficient. Indexes make queries more efficient by making pointers for where the data is stored, instead of running every line. We created an index that would point towards the resteraunt ratings and their ID. Our queries were not made much more efficient, since it already ran in 0.00s. We do not have a large enough database. However, if the database was larger we would see a difference in the query execution time. 
 
 
 ## Web/App Implementation (Optional) or Description of Future Work:
+<img src="https://github.com/rachelxaltman/Database-Project14/blob/main/writesrestdata.py" height="100%" width="100%">
 https://github.com/rachelxaltman/Database-Project14/blob/main/writesrestdata.py
 
 ## MySQL dump:
+<img src="https://github.com/rachelxaltman/Database-Project14/blob/main/Dump20201210.sql" height="100%" width="100%">
 https://github.com/rachelxaltman/Database-Project14/blob/main/Dump20201210.sql
 
 ## PPT Video (link):
